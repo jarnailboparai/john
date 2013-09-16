@@ -1,2 +1,6 @@
 i am add new file from jojo to check the git logs
 jojojojojo
+This is my config file
+
+
+hey joinfo is working
