@@ -2,8 +2,5 @@ hello
 NEW changes
 newnwnwnwnwwn
 0101010
-<<<<<<< HEAD
 0010
-=======
-001100
->>>>>>> master
+tag
